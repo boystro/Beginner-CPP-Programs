@@ -1,0 +1,1 @@
+// C++ Program to Access Elements of Array Using Pointer
