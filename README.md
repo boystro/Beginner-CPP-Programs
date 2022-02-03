@@ -45,3 +45,26 @@ Problem No. | Problem Name
 038 | C++ Program to Convert Binary Number to Decimal and vice-versa
 039 | C++ Program to Convert OCtal Number to Decimal and vice-versa
 040 | C++ Program to Convert Binary Number to Octal and vice-versa
+041 | C++ Program to Reverse a Sentence Using Recursion
+042 | C++ Program to Calculate Power Using Recursion
+043 | C++ Program to Calculate Average of Numbers Using Arrays
+044 | C++ Program to Find Largest Element of an Array
+045 | C++ Program to Calculate Standard Deviation
+046 | C++ Program to Add Two Matrix Using Multi-deminsional Arrays
+047 | C++ Program to Multiply Two Matrix Using Multi-dimensional Arrays
+048 | C++ Program to Find transpose of a Matrix
+049 | C++ Program to Multiply two Matrices by Passing Matrix to Function
+050 | C++ Program to Access Elements of an Array Using Pointer
+051 | C++ Program to Swap Numbers in Cyclic Order Using Call by Reference
+052 | C++ Program to Find the Frequency of Characters in a String
+053 | C++ Program to Find the Number of Vowels, Consonants, Digits and White Spaces in a String
+054 | C++ Program to Remove all Characters ina String Except Alphabets
+055 | C++ Program to Find the Length of a String
+056 | C++ Program to Concatenate Two Strings
+057 | C++ Program to Copy Strings
+058 | C++ Program to Sort Elements in Lexicographical Order (Dictionary Order)
+059 | C++ Program C++ Program to Store Information of a Student in a Structure
+060 | C++ Program to Add Two Distances (in inch-feet) System Using Structures
+061 | C++ Program to Add Complex Numbers by Passing Structure to a Function
+062 | C++ Program to Calculate Difference Between Two Time Period
+063 | C++ Program to Store and Display Information Using Structure
